@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.pic {
+  width: 230px;
+  height: 175px;
+}
+.items {
+  list-style-type: none;
+  margin-left: 20px;
+  width: 235px;
+  margin: 20px;
+}
